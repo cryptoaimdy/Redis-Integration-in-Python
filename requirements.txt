@@ -1,5 +1,5 @@
 mysql-connector-python==8.0.17
-protobuf==3.9.1
+protobuf==3.15.0
 pymongo==3.8.0
 redis==3.3.6
 six==1.12.0
